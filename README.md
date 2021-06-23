@@ -1,5 +1,5 @@
-# hasuratransport
-Bus Station management portal powered by Hasura
+# harpertransport
+Bus Station management portal powered by HarperDB
 
 #How to run
 * Clone the repository 
